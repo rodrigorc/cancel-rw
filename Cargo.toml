@@ -1,0 +1,12 @@
+[package]
+name = "cancel-rw"
+version = "0.1.0"
+edition = "2021"
+description = "Newtypes that allow cancellation of synchronous reads and writes"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/rodrigorc/cancel-rw"
+categories = ["filesystem"]
+keywords = ["io", "cancel"]
+
+[dependencies]
